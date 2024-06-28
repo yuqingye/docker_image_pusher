@@ -7,4 +7,5 @@ xhofe/alist:latest
 
 xiaoyaliu/alist
 
-
+xiaoyaliu/alist:hostmode
+xiaoyaliu/alist:latest
